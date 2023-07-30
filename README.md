@@ -44,3 +44,5 @@
 <img alt="Saurabh Chauhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaurabhCR7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
 <img alt="Saurabh Chauhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SaurabhCR7&theme=dark" />
+<br />
+<img alt="Saurabh Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhCR7&theme=dark" />
