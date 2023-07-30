@@ -46,3 +46,8 @@
 <img alt="Saurabh Chauhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SaurabhCR7&theme=dark" />
 <br />
 <img alt="Saurabh Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhCR7&layout=compact&theme=dark" />
+
+### Leetcode Stats
+
+<img alt="Saurabh Chauhan's Leetcode Stats" src="https://leetcard.jacoblin.cool/saurabhc006?theme=dark&font=Mallanna&ext=heatmap" />
+<br />
