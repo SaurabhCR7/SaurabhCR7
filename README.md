@@ -41,13 +41,13 @@
 
 ### Github Stats
 
-<img alt="Saurabh Chauhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaurabhCR7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<img alt="Saurabh Chauhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaurabhCR7&show_icons=true&include_all_commits=true&count_private=true" />
 <br />
-<img alt="Saurabh Chauhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SaurabhCR7&theme=dark" />
+<img alt="Saurabh Chauhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SaurabhCR7" />
 <br />
-<img alt="Saurabh Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhCR7&layout=compact&theme=dark" />
+<img alt="Saurabh Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhCR7&layout=compact" />
 
 ### Leetcode Stats
 
-<img alt="Saurabh Chauhan's Leetcode Stats" src="https://leetcard.jacoblin.cool/saurabhc006?theme=dark&font=Mallanna&ext=heatmap" />
+<img alt="Saurabh Chauhan's Leetcode Stats" src="https://leetcard.jacoblin.cool/saurabhc006?&font=Mallanna&ext=heatmap" />
 <br />
