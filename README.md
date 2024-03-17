@@ -3,7 +3,7 @@
 ### Hi there, I'm Saurabh 👋
 
 ## I'm a Backend Software Engineer!
-- 🥅 2023 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
+- 🥅 2024 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love to solve complex problems with tech!
 
 ### Languages and Tools:
