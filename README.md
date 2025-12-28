@@ -3,7 +3,7 @@
 ### Hi there, I'm Saurabh 👋
 
 # 💫 About Me:
-🔭 I’m currently working as a Senior Software Engineer (Backend) in Sumologic<br>👯 I’m looking to collaborate on JettDb project<br>🌱 I’m currently learning more about Databse Internals<br>💬 Ask me about Distributed Systems<br>⚡ Hobbies: I love to solve complex problems with tech!
+🔭 I’m currently working as a Senior Software Engineer (Backend) in SentinelOne<br>🌱 I’m currently learning more about Database Internals<br>💬 Ask me about Distributed Systems<br>⚡ Hobbies: I love to solve complex problems with tech!
 
 
 # 💻 Tech Stack:
